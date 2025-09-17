@@ -1,5 +1,5 @@
 # práctica-git-github
 Primer repositorio creado en github 
 
-##Descripcion 
+## Descripcion 
 Este mensaje sera el segundo commit como prueba
