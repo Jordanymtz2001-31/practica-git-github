@@ -1,4 +1,5 @@
-#sets
+#Pongo un comentario de prueba
+#sets 
 my_sets = set() #la forma de ser un set
 my_other_sets= {} #otra forma de decir que es un sets pero cuando esta vacia es una lista
 
@@ -31,6 +32,7 @@ my_sets = list(my_sets)
 
 print(my_sets)
 print(my_sets[0])
+
 
 
 
