@@ -5,7 +5,9 @@ my_other_sets= {} #otra forma de decir que es un sets pero cuando esta vacia es 
 print(type(my_sets)) 
 print(type(my_other_sets))
 
-my_other_sets = {24, "Hola", "Martinez", "Matinez"}
+my_other_sets = {24, "Melany", "Martinez", "Matinez"}
+my_other_sets1 = {24, "Melany", "Martinez", "Matinez"}
+
 print(type(my_other_sets))
 
 print(len(my_other_sets)) #lent Cuenta la cantidad la cantidad de elementos
