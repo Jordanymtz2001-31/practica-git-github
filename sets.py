@@ -6,6 +6,7 @@ print(type(my_sets))
 print(type(my_other_sets))
 
 my_other_sets = {24, "Dany", "Martinez", "Matinez"}
+my_other_sets1 = {24, "Melany", "Martinez", "Matinez"}
 
 print(type(my_other_sets))
 
