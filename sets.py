@@ -5,6 +5,7 @@ my_other_sets= {} #otra forma de decir que es un sets pero cuando esta vacia es 
 print(type(my_sets)) 
 print(type(my_other_sets))
 
+print("Prueba de fusion")
 print("---------------------------------------------------")
 my_other_sets = {24, "Dany", "Martinez", "Matinez"}
 
