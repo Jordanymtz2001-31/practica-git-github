@@ -18,7 +18,7 @@ print(my_other_sets)
 
 print("1.80" in my_other_sets) #Podemos relaizar busquedas en los sets
 
-my_other_sets.remove("1.80") #Podemos quitar elementos con remove
+my_other_sets.remove("2.80") #Podemos quitar elementos con remove
 print(my_other_sets) 
 
 my_other_sets.clear() #Quitamos o limpiamos con clear
@@ -31,6 +31,7 @@ my_sets = list(my_sets)
 
 print(my_sets)
 print(my_sets[0])
+
 
 
 
